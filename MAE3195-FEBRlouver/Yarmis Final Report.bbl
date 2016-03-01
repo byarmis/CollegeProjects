@@ -1,0 +1,44 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 1.4 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{pic:9mm}{misc}{}
+  \field{sortinit}{T}
+  \field{note}{\url{http://www.7-62.com/specifications/Specification_pistol.asp}}
+  \field{title}{{Technical Specifications: 9mm x 19 Parabellum}}
+\endentry
+
+\entry{wiki:9mm}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Wikipedia}{W.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{W1}
+  \strng{fullhash}{W1}
+  \field{sortinit}{W}
+  \field{note}{[Online; accessed 27 April 2013]}
+  \field{title}{{9x19mm Parabellum --- Wikipedia, The Free Encyclopedia}}
+  \field{year}{2013}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

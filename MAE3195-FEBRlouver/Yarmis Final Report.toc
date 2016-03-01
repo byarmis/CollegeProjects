@@ -1,0 +1,55 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{List of Figures}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{List of Tables}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Major Requirements}{6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}FEBR Louver}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Parametric Design}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Center}{8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Level 1}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Level 2}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Finite Element Model}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Element Types, Loads, and Boundary Conditions}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Analysis of 9-mm Handgun Bullet}{13}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Convergence}{15}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Bullet Load}{16}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Constant Pressure Load}{17}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Sinusoidal Pressure Load}{18}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Results of Analysis}{19}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Bullet Load}{20}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Constant Pressure Load}{22}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Sinusoidal Pressure Load}{24}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Storm Shutter}{26}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Overview}{26}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Mechanism}{28}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Manufacturing and Installation Flexibility}{29}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Conclusions}{30}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Appendices}{31}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Appendix A}{31}

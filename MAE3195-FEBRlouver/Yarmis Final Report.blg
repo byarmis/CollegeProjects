@@ -1,0 +1,10 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Yarmis Final Report.aux
+The style file: biblatex.bst
+Database file #1: Yarmis*Final*Report-blx.bib
+Database file #2: mybib.bib
+I was expecting a `,' or a `}'---line 10 of file mybib.bib
+ :  note = "\url{http://www.7-62.com/specifications/Specification_pistol.asp}"
+ :                                                                            ; [Online; accessed 27 April 2013]"
+I'm skipping whatever remains of this entry
+Biblatex version: 1.4
+(There was 1 error message)

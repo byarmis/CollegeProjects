@@ -1,0 +1,29 @@
+\contentsline {section}{Introduction}{2}
+\contentsline {section}{Results}{2}
+\contentsline {subsection}{30 Nodes, No Heat Generation}{2}
+\contentsline {subsubsection}{90 Seconds}{2}
+\contentsline {subsubsection}{360 Seconds}{2}
+\contentsline {subsection}{60 Nodes, No Heat Generation}{2}
+\contentsline {subsubsection}{90 Seconds}{2}
+\contentsline {subsubsection}{360 Seconds}{2}
+\contentsline {subsection}{30 Nodes, 1 $\sfrac {W}{cm^3}$ Heat Generation}{2}
+\contentsline {subsubsection}{90 Seconds}{2}
+\contentsline {subsubsection}{360 Seconds}{2}
+\contentsline {subsection}{60 Nodes, 1 $\sfrac {W}{cm^3}$ Heat Generation}{2}
+\contentsline {subsubsection}{90 Seconds}{2}
+\contentsline {subsubsection}{360 Seconds}{2}
+\contentsline {subsection}{Overview}{2}
+\contentsline {subsection}{Steady-State}{2}
+\contentsline {subsubsection}{Image}{2}
+\contentsline {subsubsection}{Calculations}{2}
+\contentsline {subsection}{Numerical Instability}{2}
+\contentsline {section}{Code}{3}
+\contentsline {subsection}{Main Program}{3}
+\contentsline {subsection}{Steady-State Calculation}{6}
+\contentsline {subsection}{Functions}{7}
+\contentsline {subsubsection}{\texttt {converge}}{7}
+\contentsline {subsubsection}{\texttt {plotq}}{8}
+\contentsline {subsubsection}{\texttt {tbedge}}{8}
+\contentsline {subsubsection}{\texttt {tcorner}}{9}
+\contentsline {subsubsection}{\texttt {tledge}}{9}
+\contentsline {subsubsection}{\texttt {tnode}}{10}
